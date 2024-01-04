@@ -1,6 +1,6 @@
-#0x02. Python - import & modules
+# 0x02. Python - import & modules
 
-##Learning Objectives
+## Learning Objectives
 Why Python programming is awesome
 How to import functions from another file
 How to use imported functions
