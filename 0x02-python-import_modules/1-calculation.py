@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 if __name__ == "__name__":
-    from calculator_1 imprt add, sub, mul, div
+    from calculator_1 import add, sub, mul, div
     
     a = 10
     b = 5
